@@ -9,11 +9,3 @@ class Cat(object):
 
     def mul(self):
         return 2
-
-def main():
-    pass
-
-def a():
-    pass
-
-b asas
