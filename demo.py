@@ -6,3 +6,6 @@ class Cat(object):
 
     def __add__(self, other):
         return 1
+
+    def mul(self):
+        return 2
