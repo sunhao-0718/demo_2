@@ -12,3 +12,8 @@ class Cat(object):
 
 def main():
     pass
+
+def a():
+    pass
+
+b asas
