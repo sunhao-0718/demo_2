@@ -9,3 +9,6 @@ class Cat(object):
 
     def mul(self):
         return 2
+
+
+asanasca
